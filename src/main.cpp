@@ -119,7 +119,8 @@ int main(int argc, char **argv) {
         fpsCap(startingTick);
     }
 
-
+    SDL_FreeSurface(image);
+    SDL_FreeSurface(screen);
     gui.clean();
 
     return 0;
