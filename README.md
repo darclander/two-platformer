@@ -1,3 +1,3 @@
 # Two-Platformer
 
-![Alt text](documents/screenshots/bg.gif?raw=true "Gif")
+![Alt text](documents/screenshots/fireworks.gif?raw=true "Gif")
